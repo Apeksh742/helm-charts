@@ -3,23 +3,23 @@ entries:
   generic-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-11T22:28:40.4165417+05:30"
+    created: "2024-05-11T23:24:05.4708712+05:30"
     description: A Helm chart for Kubernetes
     digest: 252abbca5e2a07c5fd0139ceb158a58b00d81e6d5d52cabc34830e15de881ec7
     name: generic-app
     type: application
     urls:
-    - https://apeksh742.github.io/helm-chart/generic-app-1.0.0.tgz
+    - https://apeksh742.github.io/helm-charts/generic-app-1.0.0.tgz
     version: 1.0.0
   helm-example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-11T22:28:40.4170684+05:30"
+    created: "2024-05-11T23:24:05.4905922+05:30"
     description: A Helm chart for Kubernetes
     digest: 93a5bbb450846f4bdf6c2eb85f513aa120afd2477ad122ddb1e3f94f666f6734
     name: helm-example
     type: application
     urls:
-    - https://apeksh742.github.io/helm-chart/helm-example-0.1.0.tgz
+    - https://apeksh742.github.io/helm-charts/helm-example-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-11T22:28:40.4154885+05:30"
+generated: "2024-05-11T23:24:03.8808462+05:30"
